@@ -185,8 +185,8 @@ class Main{
         cars.add(c1);
         cars.add(c2);
         Admin a1 = new Admin();
-        a1.name = "a1";
-        a1.pin = "a1a1"; 
+        a1.name = "akshay";
+        a1.pin = "b1b1"; 
         admins.add(a1);
         Boolean whole_exit = false;
         while(!whole_exit){
