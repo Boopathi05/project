@@ -223,12 +223,12 @@ public static Merchant createmerchant(){
         Admin a1 = new Admin();
         Admin a2 = new Admin();
         User u1 = new User();
-        u1.name = "Harish";
+        u1.name = "Harish@5000";
         u1.password = "5000";
         ArrayList<Admin> admins= new ArrayList<>();
-        a1.name="Boopathi";
+        a1.name="Boopathi@9500";
         a1.password="9500";
-        a2.name="Gandhi";
+        a2.name="Gandhi@7600";
         a2.password="7600";
         admins.add(a1);
         admins.add(a2);
